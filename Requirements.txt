@@ -1,0 +1,23 @@
+Requirements
+
+Admin Panel
+
+- Add/Delete/Edit products, avaulability etc.
+  - Hide products
+- Reply/Write email to clients.
+
+Clients
+
+- Browse for products
+- Order products
+- Send message (from product page ot from about)
+- Online payments
+- Deliveries??
+- Add to cart
+- Add/Delete Modify quanity in cart
+
+
+-When web site is open store ref where from the user came from e.g. FB, google banner
+
+
+Config file with IBAN?? Is it save

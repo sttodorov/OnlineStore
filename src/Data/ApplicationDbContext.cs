@@ -15,7 +15,8 @@ namespace OnlineStore.Data
         {
         }
 
-        public DbSet<>
+        public DbSet<Item> Items {get; set;}
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
